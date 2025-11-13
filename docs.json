@@ -48,8 +48,6 @@
           }
         ]
       },
-
-      
      {
   "tab": "Novidades",
   "groups": [
@@ -66,10 +64,6 @@
     }
   ]
 },
-
-
-
-      
       {
         "tab": "Documentação de API",
         "groups": [
