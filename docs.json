@@ -18,7 +18,7 @@
             "pages": [
               "index",
               "quickstart",
-              "Novidades",
+              "todos",
               "development"
             ]
           },
@@ -56,7 +56,7 @@
           {
             "group": "Atualizações",
             "pages": [
-              "Todas",
+              "todos",
               "produtorApp",
               "produtor",
               "Consultoria",
