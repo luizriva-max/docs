@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Guia",
         "groups": [
           {
             "group": "Getting started",
@@ -48,8 +48,29 @@
           }
         ]
       },
+
+      
       {
-        "tab": "API reference",
+        "tab": "Novidades",
+        "groups": [
+          {
+            "group": "Atualizações",
+            "pages": [
+              "Todas",
+              "produtorApp",
+              "produtor",
+              "Consultoria",
+              "ConsultoriaApp",
+              "gd"
+            ]
+          }
+        ]
+      },
+
+
+      
+      {
+        "tab": "Documentação de API",
         "groups": [
           {
             "group": "API documentation",
