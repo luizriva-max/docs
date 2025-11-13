@@ -96,8 +96,8 @@
         }
       }
     },
-    "/plants/{id}": {
-      "delete": {
+    "/farm/{id}": {
+      "Search": {
         "description": "Deletes a single plant based on the ID supplied",
         "parameters": [
           {
