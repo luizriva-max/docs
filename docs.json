@@ -80,12 +80,11 @@
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Cultivar Competition",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "api-reference/Farm/Search",
+              "api-reference/Farm/Create",
+              "api-reference/Farm/Update"
             ]
           }
         ]
