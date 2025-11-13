@@ -19,7 +19,7 @@
     }
   ],
   "paths": {
-    "/plants": {
+    "/farm": {
       "get": {
         "description": "Returns all plants from the system that the user has access to",
         "parameters": [
@@ -41,7 +41,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Plant"
+                    "$ref": "#/components/schemas/farm"
                   }
                 }
               }
