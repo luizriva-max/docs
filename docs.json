@@ -80,7 +80,7 @@
             ]
           },
           {
-            "group": "Cultivar Competition",
+            "group": "Farm",
             "pages": [
               "api-reference/Farm/Search",
               "api-reference/Farm/Create",
