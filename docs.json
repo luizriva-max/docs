@@ -50,22 +50,23 @@
       },
 
       
-      {
-        "tab": "Novidades",
-        "groups": [
-          {
-            "group": "Atualizações",
-            "pages": [
-              "todos",
-              "produtorApp",
-              "produtor",
-              "consultoria",
-              "consultoriaApp",
-              "gd"
-            ]
-          }
-        ]
-      },
+     {
+  "tab": "Novidades",
+  "groups": [
+    {
+      "group": "Atualizações",
+      "pages": [
+        "todos",
+        "produtorApp",
+        "produtor",
+        "consultoria",
+        "consultoriaApp",
+        "gd"
+      ]
+    }
+  ]
+},
+
 
 
       
